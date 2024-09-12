@@ -3,7 +3,6 @@ asgiref==3.8.1
 asttokens==2.4.1
 attrs==24.2.0
 backcall==0.2.0
-
 beautifulsoup4==4.12.3
 bleach==6.1.0
 certifi==2024.8.30
@@ -38,7 +37,7 @@ mistune==3.0.2
 nbclient==0.10.0
 nbconvert==7.16.4
 nbformat==5.10.4
-numpy==1.26.0
+numpy==1.24.4
 packaging==24.1
 pandocfilters==1.5.1
 parso==0.8.4
